@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MIDI Project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="instructions1">
+        You may choose to use this app\'s internal synthesizer for standalone use, or connect to a
+        computer running a MIDI synthesizer through USB.
+    </string>
+    <string name="instructions2">
+        If you wish to connect to your computer, after plugging in your USB, tap the USB connection
+        notification on your phone and select \"Use device as MIDI\". In your digital audio
+        workstation, find and connect to this phone\'s MIDI device listing. You may need to follow
+        more instructions in your DAW.  On your phone, tap \"Test Note\" on the right to test your
+        connection. When in doubt, try unplugging and plugging back in.
+    </string>
+</resources>
